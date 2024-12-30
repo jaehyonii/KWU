@@ -1,0 +1,9 @@
+module _dff_en(clk, en, d, q);
+	input		clk, en, d;
+	output	q;
+	
+	wire w_d;
+	
+	mx2	U0_mx2(.d0(), .d1(), .s(en), .y(w_d));
+	
+endmodule

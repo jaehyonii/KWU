@@ -1,0 +1,14 @@
+`timescale
+
+module tb_fifo_cal;
+	reg
+	wire
+	
+	fifo_cal(.state(tb_state), .head(tb_head), .tail(tb_tail), .data_count(tb_data_count),
+				.we(tb_we), .re(tb_re), .next_head(tb_next_head), .next_tail(tb_next_tail), .next_data_count(tb_next_data_count));
+	
+	initial begin
+	
+	end
+	
+endmodule

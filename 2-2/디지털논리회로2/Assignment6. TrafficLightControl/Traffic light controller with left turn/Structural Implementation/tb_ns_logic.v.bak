@@ -1,0 +1,10 @@
+`timescale 1ns/100ps
+
+module tb_ns_logic;
+	reg Ta, Tal, Tb, Tbl;
+	reg [2:0] Q;
+	wire [2:0] D;
+	
+	ns_logic(.Ta(), .Tal(), .Tb(), .Tbl(), .D(), .Q());
+	
+endmodule

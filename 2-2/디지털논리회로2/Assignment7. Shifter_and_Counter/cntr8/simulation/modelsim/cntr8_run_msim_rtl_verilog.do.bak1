@@ -1,0 +1,18 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/gates.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_dff_r.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/fa_v2.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/clb4.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla4.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla8.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cntr8.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/os_logic.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/ns_logic.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Shifter_and_Counter/cntr8 {C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_register3_r.v}
+

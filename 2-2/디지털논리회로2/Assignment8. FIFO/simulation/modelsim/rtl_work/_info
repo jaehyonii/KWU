@@ -1,0 +1,321 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment8. FIFO/simulation/modelsim
+v_3_to_8_decoder
+Z1 !s110 1699331934
+!i10b 1
+!s100 LhblH0JU;iCJzDR^0dU@e3
+I1@_gM=Akg[]m=8?Tl^Re<1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698077015
+8C:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699331934.000000
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment8. FIFO}
+Z7 tCvgOpt 0
+n@_3_to_8_decoder
+v_8_to_1_MUX
+R1
+!i10b 1
+!s100 YWL]j@>AaFJ7ng@g;^Y3m2
+ID9Q86d??lOeGlSIaFMCPU0
+R2
+R0
+w1699253938
+8C:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v|
+!i113 1
+R5
+R6
+R7
+n@_8_to_1_@m@u@x
+vfifo
+Z8 !s110 1699331935
+!i10b 1
+!s100 DJLNMDi_n:US=K;O_=4`@0
+I::kR0l@G<9n`:T7Z105Y03
+R2
+R0
+w1699254106
+8C:/Users/kk200/verilog/Assignment8. FIFO/fifo.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/fifo.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1699331935.000000
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/fifo.v|
+!i113 1
+R5
+R6
+R7
+vfifo_cal
+Z10 !s110 1699331936
+!i10b 1
+!s100 KcHb@PlPBD8^ahBTMJjI>2
+ICa`mOMn>eoWTUnla@9S[S2
+R2
+R0
+w1699251634
+8C:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1699331936.000000
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v|
+!i113 1
+R5
+R6
+R7
+vfifo_ns
+R10
+!i10b 1
+!s100 hMI=07[^kFM]8njY9cYUJ0
+I^0HBZLb7KIXMI4i9hV;AP0
+R2
+R0
+w1698912392
+8C:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v|
+!i113 1
+R5
+R6
+R7
+vfifo_out
+R10
+!i10b 1
+!s100 7_;k]CY8:O[D^R<32zW8F2
+IR:lO7dI11>cH@WK4zA[gj1
+R2
+R0
+w1698912726
+8C:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v|
+!i113 1
+R5
+R6
+R7
+vread_operation
+R8
+!i10b 1
+!s100 bm:PQlBXO=fNORnGj^nNQ3
+I2`f`1H^Z@C8AX:W0_?V7Q1
+R2
+R0
+w1699252377
+8C:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v|
+!i113 1
+R5
+R6
+R7
+vregister32_8
+R1
+!i10b 1
+!s100 B1nS<n=efh<F;<TGD_;8L3
+IW1Y^TLaI@^o31V1CGl>f[3
+R2
+R0
+w1697908096
+8C:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v|
+!i113 1
+R5
+R6
+R7
+vregister32_r_en
+R8
+!i10b 1
+!s100 :D6377:4PBRY:Cef?CV102
+I7zOmo>5n1QL<LbA_>GzTM3
+R2
+R0
+w1697911587
+8C:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v|
+!i113 1
+R5
+R6
+R7
+vregister3_r_en
+Z12 !s110 1699331937
+!i10b 1
+!s100 62;nz25:S_0EZPD^A77jR2
+IjlC2Z[DPMMVe8:ddX3]id0
+R2
+R0
+w1698986483
+8C:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z13 !s108 1699331937.000000
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v|
+!i113 1
+R5
+R6
+R7
+vregister4_r_en
+R12
+!i10b 1
+!s100 BhNSRT_>5D;FGU2mmniO13
+I<57dBA0EWIdJ2DboI50TN3
+R2
+R0
+w1698999964
+8C:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v|
+!i113 1
+R5
+R6
+R7
+vRegister_file
+R12
+!i10b 1
+!s100 KJG4V]NOgZ:olhl1jeZg]0
+I9<8A59T8l0`:Uhj>;K88b0
+R2
+R0
+w1699251932
+8C:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v|
+!i113 1
+R5
+R6
+R7
+n@register_file
+vtb_fifo
+R12
+!i10b 1
+!s100 3C^0H[XGD4eAndHL_U:zj3
+I]zVn3YoHSHV6eCmEPV5SG0
+R2
+R0
+w1699253323
+8C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v
+L0 3
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v|
+!i113 1
+R5
+R6
+R7
+vwrite_operation
+R8
+!i10b 1
+!s100 a=Xn>KlKb>YQALedGMcCo3
+I[1C6XRMJ^hiQRaWc9=jVQ1
+R2
+R0
+w1698060103
+8C:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v
+FC:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment8. FIFO|C:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v|
+!i113 1
+R5
+R6
+R7

@@ -1,0 +1,13 @@
+|tl_cntr
+clk => state[0].CLK
+clk => state[1].CLK
+reset_n => state[0].ACLR
+reset_n => state[1].ACLR
+Ta => Decoder0.IN0
+Tb => Decoder0.IN1
+La[0] << Decoder1.DB_MAX_OUTPUT_PORT_TYPE
+La[1] << state[1].DB_MAX_OUTPUT_PORT_TYPE
+Lb[0] << Decoder1.DB_MAX_OUTPUT_PORT_TYPE
+Lb[1] << state[1].DB_MAX_OUTPUT_PORT_TYPE
+
+

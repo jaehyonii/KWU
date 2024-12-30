@@ -1,0 +1,132 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do multiplier_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/gates.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/gates.v 
+# -- Compiling module _inv
+# -- Compiling module _and2
+# -- Compiling module _and3
+# -- Compiling module _and4
+# -- Compiling module _and5
+# -- Compiling module _or2
+# -- Compiling module _or3
+# -- Compiling module _or4
+# -- Compiling module _or5
+# -- Compiling module _nand2
+# -- Compiling module _xor2
+# 
+# Top level modules:
+# 	_and3
+# 	_and4
+# 	_and5
+# 	_or3
+# 	_or4
+# 	_or5
+# 	_nand2
+# 	_xor2
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v 
+# -- Compiling module fa_v2
+# 
+# Top level modules:
+# 	fa_v2
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v 
+# -- Compiling module clb4
+# 
+# Top level modules:
+# 	clb4
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v 
+# -- Compiling module cla32
+# 
+# Top level modules:
+# 	cla32
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v 
+# -- Compiling module cla4
+# 
+# Top level modules:
+# 	cla4
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v 
+# -- Compiling module cla128
+# 
+# Top level modules:
+# 	cla128
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment9.\ Multiplier {C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:37:44 on Nov 22,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier" C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v 
+# -- Compiling module tb_cla128
+# 
+# Top level modules:
+# 	tb_cla128
+# End time: 20:37:44 on Nov 22,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_cla128
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_cla128 
+# Start time: 20:37:45 on Nov 22,2023
+# Loading work.tb_cla128
+# Loading work.cla128
+# Loading work.cla32
+# Loading work.cla4
+# Loading work.fa_v2
+# Loading work._xor2
+# Loading work._inv
+# Loading work._and2
+# Loading work._or2
+# Loading work.clb4
+# Loading work._and3
+# Loading work._or3
+# Loading work._and4
+# Loading work._or4
+# Loading work._and5
+# Loading work._or5
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v(22)
+#    Time: 20 ns  Iteration: 0  Instance: /tb_cla128
+# Break in Module tb_cla128 at C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v line 22
+# End time: 20:47:55 on Nov 22,2023, Elapsed time: 0:10:10
+# Errors: 0, Warnings: 0

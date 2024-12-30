@@ -1,0 +1,9 @@
+
+State Machine - |Top|FactoCore:U2_FactoCore|state
+Name state.CLEAR state.END state.MUL state.FCTRL state.INPUT state.INIT 
+state.INIT 0 0 0 0 0 0 
+state.INPUT 0 0 0 0 1 1 
+state.FCTRL 0 0 0 1 0 1 
+state.MUL 0 0 1 0 0 1 
+state.END 0 1 0 0 0 1 
+state.CLEAR 1 0 0 0 0 1 

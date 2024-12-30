@@ -1,0 +1,106 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do _dff_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_dff {C:/Users/kk200/verilog/week5/_dff/gates.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:42 on Oct 14,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/week5/_dff" C:/Users/kk200/verilog/week5/_dff/gates.v 
+# -- Compiling module _inv
+# -- Compiling module _and2
+# -- Compiling module _and3
+# -- Compiling module _and4
+# -- Compiling module _and5
+# -- Compiling module _or2
+# -- Compiling module _or3
+# -- Compiling module _or4
+# -- Compiling module _or5
+# -- Compiling module _nand2
+# -- Compiling module _xor2
+# -- Compiling module _inv_4bits
+# -- Compiling module _and2_4bits
+# -- Compiling module _or2_4bits
+# -- Compiling module _xor2_4bits
+# -- Compiling module _xnor2_4bits
+# -- Compiling module _inv_32bits
+# -- Compiling module _and2_32bits
+# -- Compiling module _or2_32bits
+# -- Compiling module _xor2_32bits
+# -- Compiling module _xnor2_32bits
+# 
+# Top level modules:
+# 	_and3
+# 	_and4
+# 	_and5
+# 	_or3
+# 	_or4
+# 	_or5
+# 	_nand2
+# 	_and2_4bits
+# 	_or2_4bits
+# 	_inv_32bits
+# 	_and2_32bits
+# 	_or2_32bits
+# 	_xor2_32bits
+# 	_xnor2_32bits
+# End time: 17:20:42 on Oct 14,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_dff {C:/Users/kk200/verilog/week5/_dff/_dlatch.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:42 on Oct 14,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/week5/_dff" C:/Users/kk200/verilog/week5/_dff/_dlatch.v 
+# -- Compiling module _dlatch
+# 
+# Top level modules:
+# 	_dlatch
+# End time: 17:20:42 on Oct 14,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_dff {C:/Users/kk200/verilog/week5/_dff/_dff.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:42 on Oct 14,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/week5/_dff" C:/Users/kk200/verilog/week5/_dff/_dff.v 
+# -- Compiling module _dff
+# 
+# Top level modules:
+# 	_dff
+# End time: 17:20:42 on Oct 14,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_dff {C:/Users/kk200/verilog/week5/_dff/tb_dff.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:20:42 on Oct 14,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/week5/_dff" C:/Users/kk200/verilog/week5/_dff/tb_dff.v 
+# -- Compiling module tb_dff
+# 
+# Top level modules:
+# 	tb_dff
+# End time: 17:20:42 on Oct 14,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_dff
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_dff 
+# Start time: 17:20:42 on Oct 14,2023
+# Loading work.tb_dff
+# Loading work._dff
+# Loading work._inv
+# Loading work._dlatch
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/kk200/verilog/week5/_dff/tb_dff.v(21)
+#    Time: 29 ns  Iteration: 0  Instance: /tb_dff
+# Break in Module tb_dff at C:/Users/kk200/verilog/week5/_dff/tb_dff.v line 21
+# End time: 17:22:44 on Oct 14,2023, Elapsed time: 0:02:02
+# Errors: 0, Warnings: 0

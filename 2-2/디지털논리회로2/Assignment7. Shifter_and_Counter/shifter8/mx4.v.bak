@@ -1,0 +1,7 @@
+module mx4(d0, d1, d2, d3, s, y);
+	input d0, d1, d2, d3, s;
+	output y;
+	
+	
+
+endmodule

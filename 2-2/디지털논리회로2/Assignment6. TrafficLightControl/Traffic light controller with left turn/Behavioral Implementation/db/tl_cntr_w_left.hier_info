@@ -1,0 +1,17 @@
+|tl_cntr_w_left
+clk => state[0].CLK
+clk => state[1].CLK
+clk => state[2].CLK
+reset_n => state[0].ACLR
+reset_n => state[1].ACLR
+reset_n => state[2].ACLR
+Ta => Decoder0.IN0
+Tal => Decoder0.IN1
+Tb => Decoder0.IN2
+Tbl => Decoder0.IN3
+La[0] << WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+La[1] << WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+Lb[0] << WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+Lb[1] << WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+
+

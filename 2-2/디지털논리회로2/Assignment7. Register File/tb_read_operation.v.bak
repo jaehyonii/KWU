@@ -1,0 +1,11 @@
+`timescale 1ns/100ps
+
+module tb_read_operation;
+	reg [31:0] from_reg0, from_reg1, from_reg2, from_reg3, from_reg4, from_reg5, from_reg6, from_reg7;
+	reg [2:0] Addr; // read address
+	wire [31:0] Data; // read data
+	
+	read_operation U0(.Addr(), .Data(), .from_reg0(), .from_reg1(), .from_reg2(), .from_reg3(), 
+							.from_reg4(), .from_reg5(), .from_reg6(), .from_reg7());
+	
+endmodule

@@ -1,0 +1,147 @@
+C:/Users/kk200/verilog/CED_Project/BUS.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/BUS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Bus
+
+Top level modules:
+	Bus
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/mx3_64bits.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/mx3_64bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mx3_64bits
+
+Top level modules:
+	mx3_64bits
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/bus_arbit.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/bus_arbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus_arbit
+
+Top level modules:
+	bus_arbit
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/cal_radix4.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/cal_radix4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cal_radix4
+
+Top level modules:
+	cal_radix4
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/gates.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/gates.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module _inv
+-- Compiling module _and2
+-- Compiling module _and3
+-- Compiling module _and4
+-- Compiling module _and5
+-- Compiling module _or2
+-- Compiling module _or3
+-- Compiling module _or4
+-- Compiling module _or5
+-- Compiling module _nand2
+-- Compiling module _xor2
+
+Top level modules:
+	_and3
+	_and4
+	_and5
+	_or3
+	_or4
+	_or5
+	_nand2
+	_xor2
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/bus_addr.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/bus_addr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus_addr
+
+Top level modules:
+	bus_addr
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/cla4.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/cla4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla4
+
+Top level modules:
+	cla4
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/FactoCore.v {2 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/FactoCore.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FactoCore
+** Warning: C:/Users/kk200/verilog/CED_Project/FactoCore.v(208): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/kk200/verilog/CED_Project/FactoCore.v(209): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/kk200/verilog/CED_Project/FactoCore.v(210): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	FactoCore
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/tb_FactorialCoreTop.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/tb_FactorialCoreTop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_FactorialCoreTop
+
+Top level modules:
+	tb_FactorialCoreTop
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/fa_v2.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/fa_v2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fa_v2
+
+Top level modules:
+	fa_v2
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/ram.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/cla8.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/cla8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla8
+
+Top level modules:
+	cla8
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/cla128.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/cla128.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla128
+
+Top level modules:
+	cla128
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/Top.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/cla32.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/cla32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cla32
+
+Top level modules:
+	cla32
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/clb4.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/clb4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clb4
+
+Top level modules:
+	clb4
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/tb_bus.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/tb_bus.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_bus
+
+Top level modules:
+	tb_bus
+
+} {} {}} C:/Users/kk200/verilog/CED_Project/multiplier.v {1 {vlog -work work -stats=none C:/Users/kk200/verilog/CED_Project/multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}}

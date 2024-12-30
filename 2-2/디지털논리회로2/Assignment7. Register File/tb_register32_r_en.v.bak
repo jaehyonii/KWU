@@ -1,0 +1,10 @@
+`timescale 1ns/100ps
+
+module tb_register32_r_en;
+	reg clk, reset_n, en;
+	reg [31:0] d;
+	wire [31:0] q;
+	
+	register32_r_en(clk, reset_n, en, d, q);
+	
+endmodule

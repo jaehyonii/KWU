@@ -1,0 +1,39 @@
+module cal_radix4(multiplier, last_3bits, result_in, result_out);
+	input		  [2:0]  last_3bits;
+	input		  [63:0] multiplier;
+	input		  [127:0] result_in;
+	output reg [127:0] result_out;
+	
+	reg  [63:0] add_in, sub_in;
+	wire [63:0] add_out, sub_out;
+	
+	cla64 cla64_add(.a(multiplier),  .b(add_in), .ci(1'b0), .s(add_out), .co());
+	cla64 cla64_sub(.a(~multiplier), .b(sub_in), .ci(1'b1), .s(sub_out), .co());
+	
+	case(last_3bits)
+		3'b000, 3'b111: begin
+								result_out = $signed(result_in >>> 2);
+							 end
+		3'b001, 3'b010: begin
+								add_in = result_in[127:64];
+								result_out = $signed(add_out >>> 2);
+							 end
+		3'b011:			 begin
+								add_in = result_in[127:64] >>> 1;
+								result_out = $signed(add_out >>> 1);
+							 end
+		3'b100:			 begin
+								sub_in = result_in[127:64] >>> 1;
+								result_out = $signed(sub_out >>> 1);
+							 end
+		3'b101, 3'b110: begin
+								sub_in = result_in[127:64];
+								result_out = $signed(sub_out >>> 2);
+							 end
+		default:			 begin
+								result_out = 128'bx;
+							 end
+	endcase
+	
+	
+endmodule

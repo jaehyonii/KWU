@@ -1,0 +1,190 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment7. Register File/simulation/modelsim
+v_3_to_8_decoder
+Z1 !s110 1698081907
+!i10b 1
+!s100 LhblH0JU;iCJzDR^0dU@e3
+I;M`2cBmi6LAWj]Ye7MMFZ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698077015
+8C:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v
+FC:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698081907.000000
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment7. Register File}
+Z7 tCvgOpt 0
+n@_3_to_8_decoder
+v_8_to_1_MUX
+Z8 !s110 1698081908
+!i10b 1
+!s100 NRE3Y[e4USVHVh1]3KjSP3
+I?2PI=5TlNPWDzK04n13OV3
+R2
+R0
+w1697911712
+8C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v
+FC:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v|
+!i113 1
+R5
+R6
+R7
+n@_8_to_1_@m@u@x
+vread_operation
+R1
+!i10b 1
+!s100 n>Zo721D`3V_WBicAfBi01
+IlHX7JBPTHfi<IjP?LCa]c1
+R2
+R0
+w1697910576
+8C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v
+FC:/Users/kk200/verilog/Assignment7. Register File/read_operation.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v|
+!i113 1
+R5
+R6
+R7
+vregister32_8
+R1
+!i10b 1
+!s100 B1nS<n=efh<F;<TGD_;8L3
+IDPlTj@[:dW=@0W3kPmjoo0
+R2
+R0
+w1697908096
+8C:/Users/kk200/verilog/Assignment7. Register File/register32_8.v
+FC:/Users/kk200/verilog/Assignment7. Register File/register32_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/register32_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/register32_8.v|
+!i113 1
+R5
+R6
+R7
+vregister32_r_en
+R1
+!i10b 1
+!s100 :D6377:4PBRY:Cef?CV102
+IRNZW8S<a];2Le8b_RSfUn1
+R2
+R0
+w1697911587
+8C:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v
+FC:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v|
+!i113 1
+R5
+R6
+R7
+vRegister_file
+R1
+!i10b 1
+!s100 IDHYj3i]Yib5bF:Ke_>Lb1
+IMj>B:37FAf1kJk>@RV90Y3
+R2
+R0
+w1698060257
+8C:/Users/kk200/verilog/Assignment7. Register File/Register_file.v
+FC:/Users/kk200/verilog/Assignment7. Register File/Register_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/Register_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/Register_file.v|
+!i113 1
+R5
+R6
+R7
+n@register_file
+vtb_Register_file
+R8
+!i10b 1
+!s100 HPhzO<kFT6DjTfn580QdV3
+IjBYKF]KIo98Mc2@kZh;fN0
+R2
+R0
+w1698080408
+8C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v
+FC:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1698081908.000000
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v|
+!i113 1
+R5
+R6
+R7
+ntb_@register_file
+vwrite_operation
+R1
+!i10b 1
+!s100 a=Xn>KlKb>YQALedGMcCo3
+IO<n<fAI;@<d=A_5ozC4k93
+R2
+R0
+w1698060103
+8C:/Users/kk200/verilog/Assignment7. Register File/write_operation.v
+FC:/Users/kk200/verilog/Assignment7. Register File/write_operation.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Register File/write_operation.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Register File|C:/Users/kk200/verilog/Assignment7. Register File/write_operation.v|
+!i113 1
+R5
+R6
+R7

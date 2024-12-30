@@ -1,0 +1,18 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v}
+
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/tb_read_operation.v}
+
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  read_operation
+
+add wave *
+view structure
+view signals
+run -all

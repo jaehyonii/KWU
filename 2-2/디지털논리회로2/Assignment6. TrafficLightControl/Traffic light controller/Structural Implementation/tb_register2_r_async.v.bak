@@ -1,0 +1,6 @@
+`timescale 1ns/100ps
+
+module tb_register2_r_async;
+	
+	
+endmodule

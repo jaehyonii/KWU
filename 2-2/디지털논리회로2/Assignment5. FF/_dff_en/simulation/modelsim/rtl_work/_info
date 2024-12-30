@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/week5/_dff_en/simulation/modelsim
+v_dff_en
+Z1 !s110 1697437371
+!i10b 1
+!s100 CX]J_gG?ROAjc=g4Z1G6m3
+IKUILhT<DXaLgJYfV[6T3z2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697437194
+8C:/Users/kk200/verilog/week5/_dff_en/_dff_en.v
+FC:/Users/kk200/verilog/week5/_dff_en/_dff_en.v
+L0 14
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1697437371.000000
+!s107 C:/Users/kk200/verilog/week5/_dff_en/_dff_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week5/_dff_en|C:/Users/kk200/verilog/week5/_dff_en/_dff_en.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_dff_en
+Z7 tCvgOpt 0
+n@_dff_en
+vtb_dff_en
+R1
+!i10b 1
+!s100 jNzPD4one<`GDAMbI=iGS0
+I9gX_<Z1TIoX<NF8DcknDo1
+R2
+R0
+w1697272191
+8C:/Users/kk200/verilog/week5/_dff_en/tb_dff_en.v
+FC:/Users/kk200/verilog/week5/_dff_en/tb_dff_en.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/week5/_dff_en/tb_dff_en.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week5/_dff_en|C:/Users/kk200/verilog/week5/_dff_en/tb_dff_en.v|
+!i113 1
+R5
+R6
+R7

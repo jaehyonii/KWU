@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/RCA/simulation/modelsim
+v_and2
+Z1 !s110 1695530743
+!i10b 1
+!s100 B5U:W4;I]g?2537BCNz113
+IfD1Rk`@=@2A_F?BLXnSGI3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1695444297
+Z4 8C:/Users/kk200/verilog/RCA/gates.v
+Z5 FC:/Users/kk200/verilog/RCA/gates.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1695530743.000000
+Z8 !s107 C:/Users/kk200/verilog/RCA/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/RCA|C:/Users/kk200/verilog/RCA/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+C:/Users/kk200/verilog/RCA
+Z12 tCvgOpt 0
+n@_and2
+v_inv
+R1
+!i10b 1
+!s100 `>JJVH3ZdMMBcD5O?6WU52
+IHl_^GnhoJBbJOOaofJG>A2
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_nand2
+R1
+!i10b 1
+!s100 G>3cbo9k]DYAU3e_:T8<T1
+IahR<D[iV9;8U2LC5>9Vhe3
+R2
+R0
+R3
+R4
+R5
+L0 24
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 dg_]_<mc35Q2fIO3F>@Gc3
+I=I5VX>=j[Kl@B=?Jo=B]i2
+R2
+R0
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_xor2
+R1
+!i10b 1
+!s100 n4kGbdT`Qz7Sei8SJ`zNe2
+I?cfhBnO4TMGDUTZhJY2F51
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+vfa
+R1
+!i10b 1
+!s100 9>cCf`]7C:L83g;9mJ>MT1
+I5;n@9<1k4=RM@jIWd6dD22
+R2
+R0
+w1695446111
+8C:/Users/kk200/verilog/RCA/fa.v
+FC:/Users/kk200/verilog/RCA/fa.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/RCA/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/RCA|C:/Users/kk200/verilog/RCA/fa.v|
+!i113 1
+R10
+R11
+R12
+vha
+R1
+!i10b 1
+!s100 ?:2NP722fFgd7YQ;i7PgP3
+I0lzn;BX[7De2oDc<43K2]1
+R2
+R0
+w1695445877
+8C:/Users/kk200/verilog/RCA/ha.v
+FC:/Users/kk200/verilog/RCA/ha.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/RCA/ha.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/RCA|C:/Users/kk200/verilog/RCA/ha.v|
+!i113 1
+R10
+R11
+R12
+vrca4
+R1
+!i10b 1
+!s100 dUlniDzgaD1d:Q0Z49MB_1
+Ii:h_V]?YzCMl0bJ?^kY:92
+R2
+R0
+w1695528634
+8C:/Users/kk200/verilog/RCA/rca4.v
+FC:/Users/kk200/verilog/RCA/rca4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/RCA/rca4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/RCA|C:/Users/kk200/verilog/RCA/rca4.v|
+!i113 1
+R10
+R11
+R12
+vtb_rca
+!s110 1695530744
+!i10b 1
+!s100 <aN0]=`V^;K::PB2G^cID3
+I_7ITV1]CjNJ0kP;;]5oj?2
+R2
+R0
+w1695528446
+8C:/Users/kk200/verilog/RCA/tb_rca.v
+FC:/Users/kk200/verilog/RCA/tb_rca.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/RCA/tb_rca.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/RCA|C:/Users/kk200/verilog/RCA/tb_rca.v|
+!i113 1
+R10
+R11
+R12

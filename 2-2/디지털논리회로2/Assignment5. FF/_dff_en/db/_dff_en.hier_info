@@ -1,0 +1,7 @@
+|_dff_en
+clk => w_d.CLK
+en => w_d.ENA
+d => w_d.DATAIN
+q << w_d.DB_MAX_OUTPUT_PORT_TYPE
+
+

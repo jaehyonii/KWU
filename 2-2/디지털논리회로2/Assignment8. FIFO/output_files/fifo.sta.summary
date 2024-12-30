@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'register3_r_en:reg_state|q[1]'
+Slack : -7.227
+TNS   : -39.444
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -6.692
+TNS   : -1039.225
+
+Type  : Slow 1100mV 85C Model Setup 'fifo_ns:U0|next_state[1]'
+Slack : -6.181
+TNS   : -70.596
+
+Type  : Slow 1100mV 85C Model Setup 'rd_en'
+Slack : -4.956
+TNS   : -12.659
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -2.686
+TNS   : -15.421
+
+Type  : Slow 1100mV 85C Model Hold 'rd_en'
+Slack : 0.741
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'fifo_ns:U0|next_state[1]'
+Slack : 0.819
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'register3_r_en:reg_state|q[1]'
+Slack : 0.856
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -160.255
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'rd_en'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'fifo_ns:U0|next_state[1]'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'register3_r_en:reg_state|q[1]'
+Slack : 0.372
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'register3_r_en:reg_state|q[1]'
+Slack : -7.075
+TNS   : -38.904
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -6.262
+TNS   : -976.844
+
+Type  : Slow 1100mV 0C Model Setup 'fifo_ns:U0|next_state[1]'
+Slack : -6.143
+TNS   : -69.824
+
+Type  : Slow 1100mV 0C Model Setup 'rd_en'
+Slack : -4.894
+TNS   : -12.198
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -2.775
+TNS   : -15.959
+
+Type  : Slow 1100mV 0C Model Hold 'rd_en'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'fifo_ns:U0|next_state[1]'
+Slack : 0.756
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'register3_r_en:reg_state|q[1]'
+Slack : 0.771
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -171.369
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'rd_en'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'fifo_ns:U0|next_state[1]'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'register3_r_en:reg_state|q[1]'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -4.407
+TNS   : -600.414
+
+Type  : Fast 1100mV 85C Model Setup 'register3_r_en:reg_state|q[1]'
+Slack : -4.078
+TNS   : -20.829
+
+Type  : Fast 1100mV 85C Model Setup 'fifo_ns:U0|next_state[1]'
+Slack : -3.192
+TNS   : -35.794
+
+Type  : Fast 1100mV 85C Model Setup 'rd_en'
+Slack : -2.707
+TNS   : -7.833
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -1.478
+TNS   : -8.357
+
+Type  : Fast 1100mV 85C Model Hold 'fifo_ns:U0|next_state[1]'
+Slack : 0.478
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'register3_r_en:reg_state|q[1]'
+Slack : 0.569
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'rd_en'
+Slack : 0.689
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.087
+TNS   : -23.983
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'rd_en'
+Slack : -0.058
+TNS   : -0.250
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'register3_r_en:reg_state|q[1]'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'fifo_ns:U0|next_state[1]'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'register3_r_en:reg_state|q[1]'
+Slack : -3.755
+TNS   : -19.183
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.718
+TNS   : -481.869
+
+Type  : Fast 1100mV 0C Model Setup 'fifo_ns:U0|next_state[1]'
+Slack : -2.946
+TNS   : -32.848
+
+Type  : Fast 1100mV 0C Model Setup 'rd_en'
+Slack : -2.407
+TNS   : -6.854
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -1.491
+TNS   : -8.561
+
+Type  : Fast 1100mV 0C Model Hold 'fifo_ns:U0|next_state[1]'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'rd_en'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'register3_r_en:reg_state|q[1]'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.084
+TNS   : -23.582
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'rd_en'
+Slack : -0.051
+TNS   : -0.170
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'fifo_ns:U0|next_state[1]'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'register3_r_en:reg_state|q[1]'
+Slack : 0.400
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,7 @@
+`timescale 1ns/100ps
+
+module tb_tl_cntr;
+	reg
+	wire
+	
+endmodule

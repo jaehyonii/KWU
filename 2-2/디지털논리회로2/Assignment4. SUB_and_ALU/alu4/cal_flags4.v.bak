@@ -1,0 +1,8 @@
+module cal_flags4(op, result, co_add, c3_add, c, n, z, v);
+	input [2:0] op;
+	input [3:0] result;
+	input co_add, c3_add;
+	output c, n, z, v;
+	
+	
+endmodule

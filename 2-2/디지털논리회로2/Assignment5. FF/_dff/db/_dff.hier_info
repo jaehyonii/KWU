@@ -1,0 +1,26 @@
+|_dff
+clk => clk.IN2
+d => d.IN1
+q <= _dlatch:U2_dlatch.q
+q_bar <= _dlatch:U2_dlatch.q_bar
+
+
+|_dff|_inv:U0_inv
+a => y.DATAIN
+y <= a.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|_dff|_dlatch:U1_dlatch
+clk => q$latch.LATCH_ENABLE
+d => q$latch.DATAIN
+q <= q$latch.DB_MAX_OUTPUT_PORT_TYPE
+q_bar <= q$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|_dff|_dlatch:U2_dlatch
+clk => q$latch.LATCH_ENABLE
+d => q$latch.DATAIN
+q <= q$latch.DB_MAX_OUTPUT_PORT_TYPE
+q_bar <= q$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+

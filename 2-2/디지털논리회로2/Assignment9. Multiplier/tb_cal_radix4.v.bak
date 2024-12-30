@@ -1,0 +1,12 @@
+module tb_cal_radix4;
+	reg		  [2:0]   tb_last_3bits;
+	reg		  [63:0]  tb_multiplier;
+	reg		  [127:0] tb_result_in;
+	wire		  [127:0] tb_result_out;
+
+	cal_radix4 U0(.multiplier(tb_multiplier), .last_3bits(tb_last_3bits), .result_in(tb_result_in), .result_out(tb_result_out));
+
+	initial begin
+		tb_last_3bits=3'b000; tb_multiplier=63'h00000000ffffffff; tb_result_in=63'h0;
+	end
+endmodule

@@ -1,0 +1,13 @@
+Warning (10273): Verilog HDL warning at mx3_64bits.v(11): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/mx3_64bits.v Line: 11
+Warning (10273): Verilog HDL warning at multiplier.v(54): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/multiplier.v Line: 54
+Warning (10273): Verilog HDL warning at multiplier.v(65): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/multiplier.v Line: 65
+Warning (10273): Verilog HDL warning at multiplier.v(90): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/multiplier.v Line: 90
+Warning (10273): Verilog HDL warning at cal_radix4.v(22): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/cal_radix4.v Line: 22
+Warning (10273): Verilog HDL warning at FactoCore.v(60): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 60
+Warning (10273): Verilog HDL warning at FactoCore.v(131): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 131
+Warning (10273): Verilog HDL warning at FactoCore.v(132): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 132
+Warning (10273): Verilog HDL warning at FactoCore.v(133): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 133
+Warning (10273): Verilog HDL warning at FactoCore.v(134): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 134
+Warning (10273): Verilog HDL warning at FactoCore.v(163): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 163
+Warning (10273): Verilog HDL warning at FactoCore.v(164): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 164
+Warning (10273): Verilog HDL warning at FactoCore.v(165): extended using "x" or "z" File: C:/Users/kk200/verilog/CED_Project/FactoCore.v Line: 165

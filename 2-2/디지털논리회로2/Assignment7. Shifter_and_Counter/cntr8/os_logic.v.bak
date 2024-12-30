@@ -1,0 +1,29 @@
+module os_logic ( state, d_in, d_out);
+
+	parameter IDLE_STATE = 3'b000;
+	parameter LOAD_STATE = 3'b000;
+	parameter INC_STATE = 3'b000;
+	parameter INC2_STATE = 3'b000;
+	parameter DEC_STATE = 3'b000;
+	parameter DEC2_STATE = 3'b000;
+	
+	input [2:0] state;
+	input [7:0] d_in;
+	output [7:0] d_out;
+	reg [7:0] d_out;
+	wire [7:0] d_inc;
+	wire [7:0] d_dec;
+	always @(state, d_in) begin
+	case(state)
+	IDLE_STATE : d_out <= 8'h00;
+	LOAD_STATE :
+	INC_STATE :
+	INC2_STATE :
+	DEC_STATE :
+	DEC2_STATE :
+	default :
+	endcase
+	end
+	cla8
+	cla8
+endmodule

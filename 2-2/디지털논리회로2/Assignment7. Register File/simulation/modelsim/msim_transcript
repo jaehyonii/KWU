@@ -1,0 +1,117 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do Register_file_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/Register_file.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/Register_file.v 
+# -- Compiling module Register_file
+# 
+# Top level modules:
+# 	Register_file
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/register32_r_en.v 
+# -- Compiling module register32_r_en
+# 
+# Top level modules:
+# 	register32_r_en
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/write_operation.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/write_operation.v 
+# -- Compiling module write_operation
+# 
+# Top level modules:
+# 	write_operation
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/read_operation.v 
+# -- Compiling module read_operation
+# 
+# Top level modules:
+# 	read_operation
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/register32_8.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/register32_8.v 
+# -- Compiling module register32_8
+# 
+# Top level modules:
+# 	register32_8
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/_3_to_8_decoder.v 
+# -- Compiling module _3_to_8_decoder
+# 
+# Top level modules:
+# 	_3_to_8_decoder
+# End time: 02:25:07 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:07 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/_8_to_1_MUX.v 
+# -- Compiling module _8_to_1_MUX
+# 
+# Top level modules:
+# 	_8_to_1_MUX
+# End time: 02:25:08 on Oct 24,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment7.\ Register\ File {C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:25:08 on Oct 24,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment7. Register File" C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v 
+# -- Compiling module tb_Register_file
+# 
+# Top level modules:
+# 	tb_Register_file
+# End time: 02:25:08 on Oct 24,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_Register_file
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_Register_file 
+# Start time: 02:25:08 on Oct 24,2023
+# Loading work.tb_Register_file
+# Loading work.Register_file
+# Loading work.write_operation
+# Loading work._3_to_8_decoder
+# Loading work.register32_8
+# Loading work.register32_r_en
+# Loading work.read_operation
+# Loading work._8_to_1_MUX
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v(61)
+#    Time: 282 ns  Iteration: 0  Instance: /tb_Register_file
+# Break in Module tb_Register_file at C:/Users/kk200/verilog/Assignment7. Register File/tb_Register_file.v line 61
+# End time: 02:33:40 on Oct 24,2023, Elapsed time: 0:08:32
+# Errors: 0, Warnings: 0

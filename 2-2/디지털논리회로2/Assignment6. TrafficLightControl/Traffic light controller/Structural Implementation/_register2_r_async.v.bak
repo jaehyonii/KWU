@@ -1,0 +1,5 @@
+module _register2_r_async();
+	input
+	output
+	
+endmodule

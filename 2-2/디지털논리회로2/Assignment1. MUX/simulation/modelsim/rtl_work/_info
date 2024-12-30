@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/2-to-1-MUX/simulation/modelsim
+v_inv
+Z1 !s110 1695015542
+!i10b 1
+!s100 ?1<JlZM8d3587REEZ;]Z=0
+Inc5TB:KK1GHgiW_bYCToI2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1694447247
+Z4 8C:/Users/kk200/verilog/2-to-1-MUX/gates.v
+Z5 FC:/Users/kk200/verilog/2-to-1-MUX/gates.v
+L0 10
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1695015542.000000
+Z8 !s107 C:/Users/kk200/verilog/2-to-1-MUX/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/2-to-1-MUX|C:/Users/kk200/verilog/2-to-1-MUX/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+C:/Users/kk200/verilog/2-to-1-MUX
+Z12 tCvgOpt 0
+n@_inv
+v_nand2
+R1
+!i10b 1
+!s100 ^zE91ZPT?>>2N@[E_iCU`0
+IooPa9X^hVn<2n;PhF1CK?2
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+vmx2
+R1
+!i10b 1
+!s100 OR`8b8=_`NO@AhBYO5QOf0
+INA8eRB1A6BN4>9V6lC@;R3
+R2
+R0
+w1695015444
+8C:/Users/kk200/verilog/2-to-1-MUX/mx2.v
+FC:/Users/kk200/verilog/2-to-1-MUX/mx2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/2-to-1-MUX/mx2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/2-to-1-MUX|C:/Users/kk200/verilog/2-to-1-MUX/mx2.v|
+!i113 1
+R10
+R11
+R12
+vtest_mx2
+R1
+!i10b 1
+!s100 C[N]JYI;Ld_T8zH4oza7J1
+ILoQ>YCHIkRD`Q9lDDZI[J3
+R2
+R0
+w1695015470
+8C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v
+FC:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/2-to-1-MUX|C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v|
+!i113 1
+R10
+R11
+R12

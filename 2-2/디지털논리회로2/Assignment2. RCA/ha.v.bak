@@ -1,0 +1,5 @@
+module ha(a, b, s, co);
+	input a, b;
+	output co, s;
+	
+endmodule

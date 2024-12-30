@@ -1,0 +1,12 @@
+`timescale 1ns/100ps
+
+module tb_fa;
+	reg a, b, ci;
+	wire s, co;
+	
+	
+initial
+begin
+
+end
+endmodule

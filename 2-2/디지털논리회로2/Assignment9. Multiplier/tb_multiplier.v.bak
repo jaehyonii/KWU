@@ -1,0 +1,10 @@
+`timescale 1ns/100ps
+
+module tb_multiplier;
+	input		clk, reset_n;
+	input		[63:0] multiplier, multiplicand;
+	input		op_start, op_clear;
+	output reg	op_done;
+	output reg	[127:0] result;
+	
+endmodule

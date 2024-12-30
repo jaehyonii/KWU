@@ -1,0 +1,713 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/week4. ALU/alu32/simulation/modelsim
+v_and2
+Z1 !s110 1696865324
+!i10b 1
+!s100 B5U:W4;I]g?2537BCNz113
+I;M=LgJd9[@JF[oVCS>M=G1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1696855402
+Z4 8C:/Users/kk200/verilog/week4. ALU/alu32/gates.v
+Z5 FC:/Users/kk200/verilog/week4. ALU/alu32/gates.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1696865324.000000
+Z8 !s107 C:/Users/kk200/verilog/week4. ALU/alu32/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/week4. ALU/alu32}
+Z12 tCvgOpt 0
+n@_and2
+v_and2_32bits
+R1
+!i10b 1
+!s100 Qo^jjCM;9<^;dX8A9_8^`2
+IDJ^M[Ha5NEY[KKnRQ4O;S3
+R2
+R0
+R3
+R4
+R5
+L0 142
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_32bits
+v_and2_4bits
+R1
+!i10b 1
+!s100 UAJADQA8C63e:35Ph_jN^2
+I[[`JRL:ZlGZl5Q:o4:fj_0
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_4bits
+v_and3
+R1
+!i10b 1
+!s100 dI>>C6U@E7GLARTbJzzcR0
+I=kB_H`dnJMYQ2zG>1g9BR2
+R2
+R0
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and3
+v_and4
+R1
+!i10b 1
+!s100 TYAi_NE9MIW4`N<[mJ=3L1
+Id_]n7Wc[2Zne@XHmbPlBn1
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and4
+v_and5
+R1
+!i10b 1
+!s100 g`m^kgO7nL:`cL@`:cQ<@0
+IFJ5i3XB:Uh2fU>AjG@?110
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and5
+v_inv
+R1
+!i10b 1
+!s100 `>JJVH3ZdMMBcD5O?6WU52
+IlPIJO?:9CdoTIn9U7S;FV0
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_inv_32bits
+R1
+!i10b 1
+!s100 _=0b5P_f=d^@6f5`[S;a]1
+I4Xn6m4jToW7do>Dz>3UNY3
+R2
+R0
+R3
+R4
+R5
+L0 134
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_32bits
+v_inv_4bits
+R1
+!i10b 1
+!s100 RV2IlFScc7[?8KG=1G>A31
+IEXVY3Q;@lS<ROSYL?1Rme0
+R2
+R0
+R3
+R4
+R5
+L0 88
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_4bits
+v_nand2
+R1
+!i10b 1
+!s100 ==8<CD]Ra]n<_Ul^?QhA73
+IT@9;IBj9@ZcA2_TjMLgPj3
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 Woccl5<29A9;_M90D@`cI3
+IdmbbZFM0K`b9jdDTT]>Q:1
+R2
+R0
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_or2_32bits
+R1
+!i10b 1
+!s100 EM6b8RGAI>FO08aOio=zV2
+IDP^0P;=TK`N^6@aDOMZm=0
+R2
+R0
+R3
+R4
+R5
+L0 150
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_32bits
+v_or2_4bits
+R1
+!i10b 1
+!s100 SOk`7W1eiil[:dk87a84h3
+I>n8n15Y;kcOU^=fS_;j:U2
+R2
+R0
+R3
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_4bits
+v_or3
+R1
+!i10b 1
+!s100 HTI^]J]`knPh2B9;M^OmK0
+IT[m;47XWFohUVEC56a<zU0
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or3
+v_or4
+R1
+!i10b 1
+!s100 GlDPO1z;M9]69IPa0KVI?1
+IGR@QkS46;9RDmZ>oAUB>k1
+R2
+R0
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or4
+v_or5
+R1
+!i10b 1
+!s100 [iO=e8?n2<ZcX>=oh46I02
+I_BEi;kHF:bkZlWPh1;Fa_1
+R2
+R0
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or5
+v_xnor2_32bits
+R1
+!i10b 1
+!s100 dhFRL;iC86ZGW^X3d>]gH1
+IZjCl1TKMM5WS:RHaEK2?T3
+R2
+R0
+R3
+R4
+R5
+L0 173
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_32bits
+v_xnor2_4bits
+R1
+!i10b 1
+!s100 A[eMNeX6iWP3PWzC@acRe0
+IgE4T48:UAfeFQdUoa?O^z0
+R2
+R0
+R3
+R4
+R5
+L0 123
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_4bits
+v_xor2
+R1
+!i10b 1
+!s100 9>i^ezZae^>4E9JeAP47U2
+IAinN9e?eb40D6DTLG9>7@0
+R2
+R0
+R3
+R4
+R5
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+v_xor2_32bits
+R1
+!i10b 1
+!s100 aJS=LQ:@02OhQ]>Ye:0N;2
+I8V>:9NE2;AYD;ZYi8KkGi0
+R2
+R0
+R3
+R4
+R5
+L0 158
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_32bits
+v_xor2_4bits
+R1
+!i10b 1
+!s100 h0YaN_lU0hUY0IgVYY=UN0
+IUX?AQQ1RzQ8U9;o23Z=0[2
+R2
+R0
+R3
+R4
+R5
+L0 112
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_4bits
+valu32
+Z13 !s110 1696865325
+!i10b 1
+!s100 K4g8WmhXDz:_9_>QkBBUO0
+IGFY^LBVa4KWGLX6Za@EgQ0
+R2
+R0
+w1696861605
+8C:/Users/kk200/verilog/week4. ALU/alu32/alu32.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/alu32.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1696865325.000000
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/alu32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/alu32.v|
+!i113 1
+R10
+R11
+R12
+vcal_flags32
+R13
+!i10b 1
+!s100 izzYdNO24W91HS4kak?Yb0
+IZLbQX>n0]7`aVH=Y^f20D1
+R2
+R0
+w1696861465
+8C:/Users/kk200/verilog/week4. ALU/alu32/cal_flags32.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/cal_flags32.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/cal_flags32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/cal_flags32.v|
+!i113 1
+R10
+R11
+R12
+vcla32_ov
+R13
+!i10b 1
+!s100 XEdI?8KgQedfehJ3Hn<[A1
+I7S>zJTkE9j;<h;?_=2@JL1
+R2
+R0
+w1696856694
+8C:/Users/kk200/verilog/week4. ALU/alu32/cla32_ov.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/cla32_ov.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/cla32_ov.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/cla32_ov.v|
+!i113 1
+R10
+R11
+R12
+vcla4
+R13
+!i10b 1
+!s100 RENoM]>QU;=nd4C__OdKK2
+I51VGfA[CD8f]KX^NE=XYW0
+R2
+R0
+w1696403153
+8C:/Users/kk200/verilog/week4. ALU/alu32/cla4.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/cla4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/cla4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/cla4.v|
+!i113 1
+R10
+R11
+R12
+vcla4_ov
+R13
+!i10b 1
+!s100 _58ozKWWfN_]c2EXkHBkI2
+IZ=7ZCcSKz;4CDn6gL?aKH1
+R2
+R0
+w1696846644
+8C:/Users/kk200/verilog/week4. ALU/alu32/cla4_ov.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/cla4_ov.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/cla4_ov.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/cla4_ov.v|
+!i113 1
+R10
+R11
+R12
+vclb4
+R1
+!i10b 1
+!s100 PWZZ]C`VI;fORUWST8mZc0
+IgYeOGN4>bn53TiT1>j0Fh2
+R2
+R0
+w1696140067
+8C:/Users/kk200/verilog/week4. ALU/alu32/clb4.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/clb4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/clb4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/clb4.v|
+!i113 1
+R10
+R11
+R12
+vfa_v2
+R1
+!i10b 1
+!s100 CB8RWKOIEiI[9mOhHL@eg2
+Id;mWVae2Lk;eN4SS6m][H3
+R2
+R0
+w1695443290
+8C:/Users/kk200/verilog/week4. ALU/alu32/fa_v2.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/fa_v2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/fa_v2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/fa_v2.v|
+!i113 1
+R10
+R11
+R12
+vmx2_32bits
+R13
+!i10b 1
+!s100 6Dg1X2eYb:B@Fdf5PM^0n3
+IWhPeCFgSn0mJ`7FPB@49e3
+R2
+R0
+w1696861294
+8C:/Users/kk200/verilog/week4. ALU/alu32/mx2_32bits.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/mx2_32bits.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/mx2_32bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/mx2_32bits.v|
+!i113 1
+R10
+R11
+R12
+vmx8_32bits
+R13
+!i10b 1
+!s100 SL5I?;RMCFk=9^MbJ42[M0
+II2SN;Kgb2I9dBM]Ggag@72
+R2
+R0
+w1696861398
+8C:/Users/kk200/verilog/week4. ALU/alu32/mx8_32bits.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/mx8_32bits.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/mx8_32bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/mx8_32bits.v|
+!i113 1
+R10
+R11
+R12
+vtb_alu32
+R13
+!i10b 1
+!s100 bK9=oR4?3CkT`WVAcja4S2
+IMCdNZjSddn:H3nDS2TdST2
+R2
+R0
+w1696865249
+8C:/Users/kk200/verilog/week4. ALU/alu32/tb_alu32.v
+FC:/Users/kk200/verilog/week4. ALU/alu32/tb_alu32.v
+L0 3
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kk200/verilog/week4. ALU/alu32/tb_alu32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/week4. ALU/alu32|C:/Users/kk200/verilog/week4. ALU/alu32/tb_alu32.v|
+!i113 1
+R10
+R11
+R12

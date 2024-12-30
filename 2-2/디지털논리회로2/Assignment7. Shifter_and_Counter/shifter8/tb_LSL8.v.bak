@@ -1,0 +1,9 @@
+`timescale 1ns/100ps
+
+module tb_LSL8;
+	reg tb_d_in, tb_shamt;
+	wire tb_d_out;
+	
+	LSL8 U0_LSL8(.d_in(tb_d_in), .shamt(tb_shamt), .d_out(tb_d_out));
+	
+endmodule

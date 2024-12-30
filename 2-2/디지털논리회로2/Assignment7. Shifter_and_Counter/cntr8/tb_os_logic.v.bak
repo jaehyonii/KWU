@@ -1,0 +1,7 @@
+`timescale 1ns/100ps
+
+module tb_os_logic;
+	reg
+	wire
+	
+endmodule

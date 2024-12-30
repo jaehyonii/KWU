@@ -1,0 +1,13 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_register32 {C:/Users/kk200/verilog/week5/_register32/gates.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_register32 {C:/Users/kk200/verilog/week5/_register32/_dlatch.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_register32 {C:/Users/kk200/verilog/week5/_register32/_dff.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_register32 {C:/Users/kk200/verilog/week5/_register32/_register8.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/week5/_register32 {C:/Users/kk200/verilog/week5/_register32/_register32.v}
+

@@ -1,0 +1,13 @@
+`timescale 1ns/100ps
+
+module tb_register3_r;
+	reg tb_clk, tb_reset_n;
+	reg [2:0] tb_D;
+	wire [2:0] tb_Q;
+
+	_register3_r U0(.clk(tb_clk), .reset_n(tb_reset_n), .D(tb_D), .Q(tb_Q));
+	
+	initial begin
+		
+	end
+endmodule

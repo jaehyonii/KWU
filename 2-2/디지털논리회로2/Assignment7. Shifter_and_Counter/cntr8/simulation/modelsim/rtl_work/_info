@@ -1,0 +1,715 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/simulation/modelsim
+v_and2
+Z1 !s110 1698518184
+!i10b 1
+!s100 B5U:W4;I]g?2537BCNz113
+I6;czof8XkQa6FI2S;c3<U1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1697421008
+Z4 8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/gates.v
+Z5 FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/gates.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1698518183.000000
+Z8 !s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8}
+Z12 tCvgOpt 0
+n@_and2
+v_and2_32bits
+R1
+!i10b 1
+!s100 Qo^jjCM;9<^;dX8A9_8^`2
+IUd6@bBc6z1Un?4fUV[T:_0
+R2
+R0
+R3
+R4
+R5
+L0 142
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_32bits
+v_and2_4bits
+R1
+!i10b 1
+!s100 UAJADQA8C63e:35Ph_jN^2
+IHUV[5?0_[Z6ieVJJ]Rh5M0
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_4bits
+v_and3
+R1
+!i10b 1
+!s100 dI>>C6U@E7GLARTbJzzcR0
+Idmn2?FD[G<GPJK@PCN4`?1
+R2
+R0
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and3
+v_and4
+R1
+!i10b 1
+!s100 TYAi_NE9MIW4`N<[mJ=3L1
+I7BUJk:e3GWm6LTRM1nHff1
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and4
+v_and5
+R1
+!i10b 1
+!s100 g`m^kgO7nL:`cL@`:cQ<@0
+I3SfC2;TXJDo8O=6F6A53f0
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and5
+v_dff_r
+R1
+!i10b 1
+!s100 Xbd[?S=CH?Xff?oi<nT1E2
+IeGW4Vd2PCo;_3P;4]`^NL0
+R2
+R0
+w1698514673
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_dff_r.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_dff_r.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z13 !s108 1698518184.000000
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_dff_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_dff_r.v|
+!i113 1
+R10
+R11
+R12
+n@_dff_r
+v_inv
+R1
+!i10b 1
+!s100 `>JJVH3ZdMMBcD5O?6WU52
+IIb]SzRZP^IM:lVKf5N4?f3
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_inv_32bits
+R1
+!i10b 1
+!s100 _=0b5P_f=d^@6f5`[S;a]1
+IDz_TGHXF<PcIo?`Szf7bd0
+R2
+R0
+R3
+R4
+R5
+L0 134
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_32bits
+v_inv_4bits
+R1
+!i10b 1
+!s100 RV2IlFScc7[?8KG=1G>A31
+IfE>NZ;QioKWfa9flZJJS;2
+R2
+R0
+R3
+R4
+R5
+L0 88
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_4bits
+v_nand2
+R1
+!i10b 1
+!s100 ==8<CD]Ra]n<_Ul^?QhA73
+I1geCE_0f=mzbW1LZ1E8El2
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 Woccl5<29A9;_M90D@`cI3
+ImLJajZ8?n=`AOGS]VBaCR1
+R2
+R0
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_or2_32bits
+R1
+!i10b 1
+!s100 EM6b8RGAI>FO08aOio=zV2
+IXL^S0g7^1Y5ZA`Afndi;h0
+R2
+R0
+R3
+R4
+R5
+L0 150
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_32bits
+v_or2_4bits
+R1
+!i10b 1
+!s100 SOk`7W1eiil[:dk87a84h3
+IY]:NNMA49d_?U7AFMWi[73
+R2
+R0
+R3
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_4bits
+v_or3
+R1
+!i10b 1
+!s100 HTI^]J]`knPh2B9;M^OmK0
+IQA@;]3M:iHJaD=H8a;`[I0
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or3
+v_or4
+R1
+!i10b 1
+!s100 GlDPO1z;M9]69IPa0KVI?1
+I5=[NaX3RJaLo5MDL^i_o20
+R2
+R0
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or4
+v_or5
+R1
+!i10b 1
+!s100 [iO=e8?n2<ZcX>=oh46I02
+IIlhfQ6M3Mo67Ik;fnoDJH3
+R2
+R0
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or5
+v_register3_r
+R1
+!i10b 1
+!s100 QMJgmWASgQ[4d9h=55?Fk3
+IBmgKY[A?5GJWFUlfnR_OB2
+R2
+R0
+w1698514728
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_register3_r.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_register3_r.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_register3_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/_register3_r.v|
+!i113 1
+R10
+R11
+R12
+n@_register3_r
+v_xnor2_32bits
+R1
+!i10b 1
+!s100 dhFRL;iC86ZGW^X3d>]gH1
+I2H@XCFX6Sz@7Ynfn_ZEh]1
+R2
+R0
+R3
+R4
+R5
+L0 173
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_32bits
+v_xnor2_4bits
+R1
+!i10b 1
+!s100 A[eMNeX6iWP3PWzC@acRe0
+I5`ijeLQ@<kc;jYnT=W56>1
+R2
+R0
+R3
+R4
+R5
+L0 123
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_4bits
+v_xor2
+R1
+!i10b 1
+!s100 9>i^ezZae^>4E9JeAP47U2
+Idag05^VQ=7]1OJl;hj[K;3
+R2
+R0
+R3
+R4
+R5
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+v_xor2_32bits
+R1
+!i10b 1
+!s100 aJS=LQ:@02OhQ]>Ye:0N;2
+IkDLW5lc:Q=Ab`=Fd1Q;Xg1
+R2
+R0
+R3
+R4
+R5
+L0 158
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_32bits
+v_xor2_4bits
+R1
+!i10b 1
+!s100 h0YaN_lU0hUY0IgVYY=UN0
+IiAoXG]44@WKb0Wd?APRT40
+R2
+R0
+R3
+R4
+R5
+L0 112
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_4bits
+vcla4
+R1
+!i10b 1
+!s100 RENoM]>QU;=nd4C__OdKK2
+IO^Fzd[NUdD9i082K?gi_Q1
+R2
+R0
+w1696403153
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla4.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla4.v|
+!i113 1
+R10
+R11
+R12
+vcla8
+R1
+!i10b 1
+!s100 ^=PC><V5R?W5ZAF4M25L42
+IQVTh3lfd[i[C?NZ@RndD72
+R2
+R0
+w1698514696
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla8.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cla8.v|
+!i113 1
+R10
+R11
+R12
+vclb4
+R1
+!i10b 1
+!s100 aV=DzV_icCZI1DS8Z2kdQ2
+IEJAQggEnk8=@_lZS`P1Dm3
+R2
+R0
+w1696403131
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/clb4.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/clb4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/clb4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/clb4.v|
+!i113 1
+R10
+R11
+R12
+vcntr8
+R1
+!i10b 1
+!s100 clbV9Q4BgE51M57=c?ffH3
+IhWUbMO2jMdz9jIM122PA=3
+R2
+R0
+w1698469430
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cntr8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cntr8.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cntr8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/cntr8.v|
+!i113 1
+R10
+R11
+R12
+vfa_v2
+R1
+!i10b 1
+!s100 CB8RWKOIEiI[9mOhHL@eg2
+IMD<[QH[K0C8]A1ZDhJ=IS1
+R2
+R0
+w1696403118
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/fa_v2.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/fa_v2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/fa_v2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/fa_v2.v|
+!i113 1
+R10
+R11
+R12
+vns_logic
+R1
+!i10b 1
+!s100 JkYCP0[[;G192ZDcz=TQS3
+ISTX<0H__m?80k_XSE^[ND2
+R2
+R0
+w1698474313
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/ns_logic.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/ns_logic.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/ns_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/ns_logic.v|
+!i113 1
+R10
+R11
+R12
+vos_logic
+R1
+!i10b 1
+!s100 [c5o]6iKo^:Hn`9f]n3AW3
+IzP;F4=[Mi9=>HC?8B8HP50
+R2
+R0
+w1698515219
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/os_logic.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/os_logic.v
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/os_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/os_logic.v|
+!i113 1
+R10
+R11
+R12
+vtb_cntr8
+R1
+!i10b 1
+!s100 ^NRQ=>@nBR16onz0k0A9K3
+I@jW6;5ljodY4[JoJ_1IWd3
+R2
+R0
+w1698515417
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/tb_cntr8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/tb_cntr8.v
+L0 3
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/tb_cntr8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/cntr8/tb_cntr8.v|
+!i113 1
+R10
+R11
+R12

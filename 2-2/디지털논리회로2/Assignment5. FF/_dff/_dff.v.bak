@@ -1,0 +1,4 @@
+module _dff(clk, d, q, q_bar);
+	input		clk, d;
+	output	q, q_bar;
+	wire		clk_bar, w_q;

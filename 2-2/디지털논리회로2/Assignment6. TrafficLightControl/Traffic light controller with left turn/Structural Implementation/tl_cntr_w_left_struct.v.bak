@@ -1,0 +1,5 @@
+module tl_cntr_w_left_struct
+	input
+	output
+	
+endmodule

@@ -1,0 +1,188 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do fifo_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:54 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/register32_8.v 
+# -- Compiling module register32_8
+# 
+# Top level modules:
+# 	register32_8
+# End time: 13:38:54 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:54 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/_8_to_1_MUX.v 
+# -- Compiling module _8_to_1_MUX
+# 
+# Top level modules:
+# 	_8_to_1_MUX
+# End time: 13:38:54 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:54 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/_3_to_8_decoder.v 
+# -- Compiling module _3_to_8_decoder
+# 
+# Top level modules:
+# 	_3_to_8_decoder
+# End time: 13:38:54 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:54 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/write_operation.v 
+# -- Compiling module write_operation
+# 
+# Top level modules:
+# 	write_operation
+# End time: 13:38:55 on Nov 07,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:55 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/register32_r_en.v 
+# -- Compiling module register32_r_en
+# 
+# Top level modules:
+# 	register32_r_en
+# End time: 13:38:55 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:55 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/read_operation.v 
+# -- Compiling module read_operation
+# 
+# Top level modules:
+# 	read_operation
+# End time: 13:38:55 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/fifo.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:55 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/fifo.v 
+# -- Compiling module fifo
+# 
+# Top level modules:
+# 	fifo
+# End time: 13:38:55 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:55 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/fifo_ns.v 
+# -- Compiling module fifo_ns
+# 
+# Top level modules:
+# 	fifo_ns
+# End time: 13:38:56 on Nov 07,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:56 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/fifo_cal.v 
+# -- Compiling module fifo_cal
+# 
+# Top level modules:
+# 	fifo_cal
+# End time: 13:38:56 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:56 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/fifo_out.v 
+# -- Compiling module fifo_out
+# 
+# Top level modules:
+# 	fifo_out
+# End time: 13:38:56 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:57 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/Register_file.v 
+# -- Compiling module Register_file
+# 
+# Top level modules:
+# 	Register_file
+# End time: 13:38:57 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:57 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/register3_r_en.v 
+# -- Compiling module register3_r_en
+# 
+# Top level modules:
+# 	register3_r_en
+# End time: 13:38:57 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:57 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/register4_r_en.v 
+# -- Compiling module register4_r_en
+# 
+# Top level modules:
+# 	register4_r_en
+# End time: 13:38:57 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment8.\ FIFO {C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:57 on Nov 07,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/Assignment8. FIFO" C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v 
+# -- Compiling module tb_fifo
+# 
+# Top level modules:
+# 	tb_fifo
+# End time: 13:38:57 on Nov 07,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_fifo
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_fifo 
+# Start time: 13:38:57 on Nov 07,2023
+# Loading work.tb_fifo
+# Loading work.fifo
+# Loading work.fifo_ns
+# Loading work.fifo_cal
+# Loading work.fifo_out
+# Loading work.Register_file
+# Loading work.write_operation
+# Loading work._3_to_8_decoder
+# Loading work.register32_8
+# Loading work.register32_r_en
+# Loading work.read_operation
+# Loading work._8_to_1_MUX
+# Loading work.register3_r_en
+# Loading work.register4_r_en
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jaehyun Kim  Hostname: JBOOK  ProcessID: 1580
+#           Attempting to use alternate WLF file "./wlftwmatad".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftwmatad
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v(41)
+#    Time: 353 ns  Iteration: 0  Instance: /tb_fifo
+# Break in Module tb_fifo at C:/Users/kk200/verilog/Assignment8. FIFO/tb_fifo.v line 41
+# End time: 13:39:50 on Nov 07,2023, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 2

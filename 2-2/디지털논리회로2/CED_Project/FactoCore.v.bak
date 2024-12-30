@@ -1,0 +1,8 @@
+module FactoCore();
+	input			  clk, reset_n, s_sel, s_wr;
+	input [15:0]  s_addr;
+	input [63:0]  s_din;
+	output [63:0] s_dout;
+	output		  interrupt;
+	
+endmodule

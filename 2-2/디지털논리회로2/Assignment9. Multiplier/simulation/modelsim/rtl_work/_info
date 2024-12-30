@@ -1,0 +1,395 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment9. Multiplier/simulation/modelsim
+v_and2
+Z1 !s110 1700653064
+!i10b 1
+!s100 B5U:W4;I]g?2537BCNz113
+Ii4fFah:55H?B9Y818fVjd1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1695443062
+Z4 8C:/Users/kk200/verilog/Assignment9. Multiplier/gates.v
+Z5 FC:/Users/kk200/verilog/Assignment9. Multiplier/gates.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1700653064.000000
+Z8 !s107 C:/Users/kk200/verilog/Assignment9. Multiplier/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier}
+Z12 tCvgOpt 0
+n@_and2
+v_and3
+R1
+!i10b 1
+!s100 dI>>C6U@E7GLARTbJzzcR0
+IRhCFmXJVRiZ]L8lRN`b4i1
+R2
+R0
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and3
+v_and4
+R1
+!i10b 1
+!s100 TYAi_NE9MIW4`N<[mJ=3L1
+IFnOWEE=1]3Pd;C^0oa;i13
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and4
+v_and5
+R1
+!i10b 1
+!s100 g`m^kgO7nL:`cL@`:cQ<@0
+IhT4LRCN`R5I4NMaVg4L6W2
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and5
+v_inv
+R1
+!i10b 1
+!s100 `>JJVH3ZdMMBcD5O?6WU52
+Ic8kA>8K@5dk4eOzm9BMzh0
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_nand2
+R1
+!i10b 1
+!s100 ==8<CD]Ra]n<_Ul^?QhA73
+IjjR7R`hi=KFGS7@n8OPXg1
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 Woccl5<29A9;_M90D@`cI3
+Ig:A;A6Z6YQoj]:A8KH<C`2
+R2
+R0
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_or3
+R1
+!i10b 1
+!s100 HTI^]J]`knPh2B9;M^OmK0
+I7geEL^lSE=h]G?UEBSPVB2
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or3
+v_or4
+R1
+!i10b 1
+!s100 GlDPO1z;M9]69IPa0KVI?1
+I8ZFUKSTS>cQP0oMl:LL5L3
+R2
+R0
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or4
+v_or5
+R1
+!i10b 1
+!s100 [iO=e8?n2<ZcX>=oh46I02
+IaXzmCU2fhmkZ=Sa1XVMFa3
+R2
+R0
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or5
+v_xor2
+R1
+!i10b 1
+!s100 9>i^ezZae^>4E9JeAP47U2
+I;?V3NnIz=43TClfGYbO_X3
+R2
+R0
+R3
+R4
+R5
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+vcla128
+R1
+!i10b 1
+!s100 5n`4gNe6[7j`3zAIB;Pio1
+INLU5KFmEEB^b_=4Y0L4]:1
+R2
+R0
+w1700460464
+8C:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/cla128.v|
+!i113 1
+R10
+R11
+R12
+vcla32
+R1
+!i10b 1
+!s100 SJ]hia0oJNNK>b>TgVT@J1
+Igi0ZEDzZ:2AYbfzafQS3m3
+R2
+R0
+w1696403145
+8C:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/cla32.v|
+!i113 1
+R10
+R11
+R12
+vcla4
+R1
+!i10b 1
+!s100 RENoM]>QU;=nd4C__OdKK2
+I8`QcnPj];6`5UIaQiMZG^0
+R2
+R0
+w1696403153
+8C:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/cla4.v|
+!i113 1
+R10
+R11
+R12
+vclb4
+R1
+!i10b 1
+!s100 aV=DzV_icCZI1DS8Z2kdQ2
+IzV]3UXm=^4e[G0e_G[o731
+R2
+R0
+w1696403131
+8C:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/clb4.v|
+!i113 1
+R10
+R11
+R12
+vfa_v2
+R1
+!i10b 1
+!s100 CB8RWKOIEiI[9mOhHL@eg2
+I>9?1dN?AQ^d4<o6zi4gRf2
+R2
+R0
+w1696403118
+8C:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/fa_v2.v|
+!i113 1
+R10
+R11
+R12
+vtb_cla128
+R1
+!i10b 1
+!s100 1G?nV5FmiH@=PGACZBT<^0
+IS`4HUZ57@II9kKczd1lS]2
+R2
+R0
+w1700463416
+8C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v
+FC:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment9. Multiplier|C:/Users/kk200/verilog/Assignment9. Multiplier/tb_cla128.v|
+!i113 1
+R10
+R11
+R12

@@ -1,0 +1,10 @@
+`timescale 1ns/100ps
+
+module register32_8;
+	reg tb_clk, tb_reset_n, tb_en;
+	reg [31:0] tb_d_in;
+	wire [31:0]d_out0, d_out1, d_out2, d_out3, d_out4, d_out5, d_out6, d_out7;
+	
+	register32_8 U0(clk, reset_n, en, d_in, d_out0, d_out1, d_out2, d_out3, d_out4, d_out5, d_out6, d_out7);
+
+endmodule

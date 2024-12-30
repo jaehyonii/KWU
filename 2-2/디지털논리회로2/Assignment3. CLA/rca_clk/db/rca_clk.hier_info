@@ -1,0 +1,1460 @@
+|rca_clk
+clk => reg_co.CLK
+clk => reg_s[0].CLK
+clk => reg_s[1].CLK
+clk => reg_s[2].CLK
+clk => reg_s[3].CLK
+clk => reg_s[4].CLK
+clk => reg_s[5].CLK
+clk => reg_s[6].CLK
+clk => reg_s[7].CLK
+clk => reg_s[8].CLK
+clk => reg_s[9].CLK
+clk => reg_s[10].CLK
+clk => reg_s[11].CLK
+clk => reg_s[12].CLK
+clk => reg_s[13].CLK
+clk => reg_s[14].CLK
+clk => reg_s[15].CLK
+clk => reg_s[16].CLK
+clk => reg_s[17].CLK
+clk => reg_s[18].CLK
+clk => reg_s[19].CLK
+clk => reg_s[20].CLK
+clk => reg_s[21].CLK
+clk => reg_s[22].CLK
+clk => reg_s[23].CLK
+clk => reg_s[24].CLK
+clk => reg_s[25].CLK
+clk => reg_s[26].CLK
+clk => reg_s[27].CLK
+clk => reg_s[28].CLK
+clk => reg_s[29].CLK
+clk => reg_s[30].CLK
+clk => reg_s[31].CLK
+clk => reg_ci.CLK
+clk => reg_b[0].CLK
+clk => reg_b[1].CLK
+clk => reg_b[2].CLK
+clk => reg_b[3].CLK
+clk => reg_b[4].CLK
+clk => reg_b[5].CLK
+clk => reg_b[6].CLK
+clk => reg_b[7].CLK
+clk => reg_b[8].CLK
+clk => reg_b[9].CLK
+clk => reg_b[10].CLK
+clk => reg_b[11].CLK
+clk => reg_b[12].CLK
+clk => reg_b[13].CLK
+clk => reg_b[14].CLK
+clk => reg_b[15].CLK
+clk => reg_b[16].CLK
+clk => reg_b[17].CLK
+clk => reg_b[18].CLK
+clk => reg_b[19].CLK
+clk => reg_b[20].CLK
+clk => reg_b[21].CLK
+clk => reg_b[22].CLK
+clk => reg_b[23].CLK
+clk => reg_b[24].CLK
+clk => reg_b[25].CLK
+clk => reg_b[26].CLK
+clk => reg_b[27].CLK
+clk => reg_b[28].CLK
+clk => reg_b[29].CLK
+clk => reg_b[30].CLK
+clk => reg_b[31].CLK
+clk => reg_a[0].CLK
+clk => reg_a[1].CLK
+clk => reg_a[2].CLK
+clk => reg_a[3].CLK
+clk => reg_a[4].CLK
+clk => reg_a[5].CLK
+clk => reg_a[6].CLK
+clk => reg_a[7].CLK
+clk => reg_a[8].CLK
+clk => reg_a[9].CLK
+clk => reg_a[10].CLK
+clk => reg_a[11].CLK
+clk => reg_a[12].CLK
+clk => reg_a[13].CLK
+clk => reg_a[14].CLK
+clk => reg_a[15].CLK
+clk => reg_a[16].CLK
+clk => reg_a[17].CLK
+clk => reg_a[18].CLK
+clk => reg_a[19].CLK
+clk => reg_a[20].CLK
+clk => reg_a[21].CLK
+clk => reg_a[22].CLK
+clk => reg_a[23].CLK
+clk => reg_a[24].CLK
+clk => reg_a[25].CLK
+clk => reg_a[26].CLK
+clk => reg_a[27].CLK
+clk => reg_a[28].CLK
+clk => reg_a[29].CLK
+clk => reg_a[30].CLK
+clk => reg_a[31].CLK
+a[0] => reg_a[0].DATAIN
+a[1] => reg_a[1].DATAIN
+a[2] => reg_a[2].DATAIN
+a[3] => reg_a[3].DATAIN
+a[4] => reg_a[4].DATAIN
+a[5] => reg_a[5].DATAIN
+a[6] => reg_a[6].DATAIN
+a[7] => reg_a[7].DATAIN
+a[8] => reg_a[8].DATAIN
+a[9] => reg_a[9].DATAIN
+a[10] => reg_a[10].DATAIN
+a[11] => reg_a[11].DATAIN
+a[12] => reg_a[12].DATAIN
+a[13] => reg_a[13].DATAIN
+a[14] => reg_a[14].DATAIN
+a[15] => reg_a[15].DATAIN
+a[16] => reg_a[16].DATAIN
+a[17] => reg_a[17].DATAIN
+a[18] => reg_a[18].DATAIN
+a[19] => reg_a[19].DATAIN
+a[20] => reg_a[20].DATAIN
+a[21] => reg_a[21].DATAIN
+a[22] => reg_a[22].DATAIN
+a[23] => reg_a[23].DATAIN
+a[24] => reg_a[24].DATAIN
+a[25] => reg_a[25].DATAIN
+a[26] => reg_a[26].DATAIN
+a[27] => reg_a[27].DATAIN
+a[28] => reg_a[28].DATAIN
+a[29] => reg_a[29].DATAIN
+a[30] => reg_a[30].DATAIN
+a[31] => reg_a[31].DATAIN
+b[0] => reg_b[0].DATAIN
+b[1] => reg_b[1].DATAIN
+b[2] => reg_b[2].DATAIN
+b[3] => reg_b[3].DATAIN
+b[4] => reg_b[4].DATAIN
+b[5] => reg_b[5].DATAIN
+b[6] => reg_b[6].DATAIN
+b[7] => reg_b[7].DATAIN
+b[8] => reg_b[8].DATAIN
+b[9] => reg_b[9].DATAIN
+b[10] => reg_b[10].DATAIN
+b[11] => reg_b[11].DATAIN
+b[12] => reg_b[12].DATAIN
+b[13] => reg_b[13].DATAIN
+b[14] => reg_b[14].DATAIN
+b[15] => reg_b[15].DATAIN
+b[16] => reg_b[16].DATAIN
+b[17] => reg_b[17].DATAIN
+b[18] => reg_b[18].DATAIN
+b[19] => reg_b[19].DATAIN
+b[20] => reg_b[20].DATAIN
+b[21] => reg_b[21].DATAIN
+b[22] => reg_b[22].DATAIN
+b[23] => reg_b[23].DATAIN
+b[24] => reg_b[24].DATAIN
+b[25] => reg_b[25].DATAIN
+b[26] => reg_b[26].DATAIN
+b[27] => reg_b[27].DATAIN
+b[28] => reg_b[28].DATAIN
+b[29] => reg_b[29].DATAIN
+b[30] => reg_b[30].DATAIN
+b[31] => reg_b[31].DATAIN
+ci => reg_ci.DATAIN
+s[0] << reg_s[0].DB_MAX_OUTPUT_PORT_TYPE
+s[1] << reg_s[1].DB_MAX_OUTPUT_PORT_TYPE
+s[2] << reg_s[2].DB_MAX_OUTPUT_PORT_TYPE
+s[3] << reg_s[3].DB_MAX_OUTPUT_PORT_TYPE
+s[4] << reg_s[4].DB_MAX_OUTPUT_PORT_TYPE
+s[5] << reg_s[5].DB_MAX_OUTPUT_PORT_TYPE
+s[6] << reg_s[6].DB_MAX_OUTPUT_PORT_TYPE
+s[7] << reg_s[7].DB_MAX_OUTPUT_PORT_TYPE
+s[8] << reg_s[8].DB_MAX_OUTPUT_PORT_TYPE
+s[9] << reg_s[9].DB_MAX_OUTPUT_PORT_TYPE
+s[10] << reg_s[10].DB_MAX_OUTPUT_PORT_TYPE
+s[11] << reg_s[11].DB_MAX_OUTPUT_PORT_TYPE
+s[12] << reg_s[12].DB_MAX_OUTPUT_PORT_TYPE
+s[13] << reg_s[13].DB_MAX_OUTPUT_PORT_TYPE
+s[14] << reg_s[14].DB_MAX_OUTPUT_PORT_TYPE
+s[15] << reg_s[15].DB_MAX_OUTPUT_PORT_TYPE
+s[16] << reg_s[16].DB_MAX_OUTPUT_PORT_TYPE
+s[17] << reg_s[17].DB_MAX_OUTPUT_PORT_TYPE
+s[18] << reg_s[18].DB_MAX_OUTPUT_PORT_TYPE
+s[19] << reg_s[19].DB_MAX_OUTPUT_PORT_TYPE
+s[20] << reg_s[20].DB_MAX_OUTPUT_PORT_TYPE
+s[21] << reg_s[21].DB_MAX_OUTPUT_PORT_TYPE
+s[22] << reg_s[22].DB_MAX_OUTPUT_PORT_TYPE
+s[23] << reg_s[23].DB_MAX_OUTPUT_PORT_TYPE
+s[24] << reg_s[24].DB_MAX_OUTPUT_PORT_TYPE
+s[25] << reg_s[25].DB_MAX_OUTPUT_PORT_TYPE
+s[26] << reg_s[26].DB_MAX_OUTPUT_PORT_TYPE
+s[27] << reg_s[27].DB_MAX_OUTPUT_PORT_TYPE
+s[28] << reg_s[28].DB_MAX_OUTPUT_PORT_TYPE
+s[29] << reg_s[29].DB_MAX_OUTPUT_PORT_TYPE
+s[30] << reg_s[30].DB_MAX_OUTPUT_PORT_TYPE
+s[31] << reg_s[31].DB_MAX_OUTPUT_PORT_TYPE
+co << reg_co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+a[4] => a[4].IN1
+a[5] => a[5].IN1
+a[6] => a[6].IN1
+a[7] => a[7].IN1
+a[8] => a[8].IN1
+a[9] => a[9].IN1
+a[10] => a[10].IN1
+a[11] => a[11].IN1
+a[12] => a[12].IN1
+a[13] => a[13].IN1
+a[14] => a[14].IN1
+a[15] => a[15].IN1
+a[16] => a[16].IN1
+a[17] => a[17].IN1
+a[18] => a[18].IN1
+a[19] => a[19].IN1
+a[20] => a[20].IN1
+a[21] => a[21].IN1
+a[22] => a[22].IN1
+a[23] => a[23].IN1
+a[24] => a[24].IN1
+a[25] => a[25].IN1
+a[26] => a[26].IN1
+a[27] => a[27].IN1
+a[28] => a[28].IN1
+a[29] => a[29].IN1
+a[30] => a[30].IN1
+a[31] => a[31].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+b[4] => b[4].IN1
+b[5] => b[5].IN1
+b[6] => b[6].IN1
+b[7] => b[7].IN1
+b[8] => b[8].IN1
+b[9] => b[9].IN1
+b[10] => b[10].IN1
+b[11] => b[11].IN1
+b[12] => b[12].IN1
+b[13] => b[13].IN1
+b[14] => b[14].IN1
+b[15] => b[15].IN1
+b[16] => b[16].IN1
+b[17] => b[17].IN1
+b[18] => b[18].IN1
+b[19] => b[19].IN1
+b[20] => b[20].IN1
+b[21] => b[21].IN1
+b[22] => b[22].IN1
+b[23] => b[23].IN1
+b[24] => b[24].IN1
+b[25] => b[25].IN1
+b[26] => b[26].IN1
+b[27] => b[27].IN1
+b[28] => b[28].IN1
+b[29] => b[29].IN1
+b[30] => b[30].IN1
+b[31] => b[31].IN1
+ci => ci.IN1
+s[0] <= rca4:U0_rca4.s
+s[1] <= rca4:U0_rca4.s
+s[2] <= rca4:U0_rca4.s
+s[3] <= rca4:U0_rca4.s
+s[4] <= rca4:U1_rca4.s
+s[5] <= rca4:U1_rca4.s
+s[6] <= rca4:U1_rca4.s
+s[7] <= rca4:U1_rca4.s
+s[8] <= rca4:U2_rca4.s
+s[9] <= rca4:U2_rca4.s
+s[10] <= rca4:U2_rca4.s
+s[11] <= rca4:U2_rca4.s
+s[12] <= rca4:U3_rca4.s
+s[13] <= rca4:U3_rca4.s
+s[14] <= rca4:U3_rca4.s
+s[15] <= rca4:U3_rca4.s
+s[16] <= rca4:U4_rca4.s
+s[17] <= rca4:U4_rca4.s
+s[18] <= rca4:U4_rca4.s
+s[19] <= rca4:U4_rca4.s
+s[20] <= rca4:U5_rca4.s
+s[21] <= rca4:U5_rca4.s
+s[22] <= rca4:U5_rca4.s
+s[23] <= rca4:U5_rca4.s
+s[24] <= rca4:U6_rca4.s
+s[25] <= rca4:U6_rca4.s
+s[26] <= rca4:U6_rca4.s
+s[27] <= rca4:U6_rca4.s
+s[28] <= rca4:U7_rca4.s
+s[29] <= rca4:U7_rca4.s
+s[30] <= rca4:U7_rca4.s
+s[31] <= rca4:U7_rca4.s
+co <= rca4:U7_rca4.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U0_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U1_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U2_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U3_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U4_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U5_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U6_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+ci => ci.IN1
+s[0] <= fa:U0_fa.s
+s[1] <= fa:U1_fa.s
+s[2] <= fa:U2_fa.s
+s[3] <= fa:U3_fa.s
+co <= fa:U3_fa.co
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U0_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U0_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U0_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U0_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U1_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U1_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U1_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U1_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U2_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U2_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U2_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U2_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U3_fa
+a => a.IN1
+b => b.IN1
+ci => ci.IN1
+s <= ha:U1_ha.s
+co <= _or2:U2_or.y
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U3_fa|ha:U0_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U3_fa|ha:U1_ha
+a => s.IN0
+a => co.IN0
+b => s.IN1
+b => co.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca_clk|rca32:U0_rca32|rca4:U7_rca4|fa:U3_fa|_or2:U2_or
+a => y.IN0
+b => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

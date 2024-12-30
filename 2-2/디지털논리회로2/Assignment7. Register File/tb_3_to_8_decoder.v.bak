@@ -1,0 +1,19 @@
+`timescale 1ns/100ps
+
+module tb_3_to_8_decoder;
+	reg [2:0] tb_d;
+	wire [7:0] tb_q;
+	
+	_3_to_8_decoder U0(.d(tb_d), .q(tb_q)); // 3to 8 decoder module
+	
+	initial begin
+		tb_d = 3'b000;
+		tb_d = 3'b001;
+		tb_d = 3'b010;
+		tb_d = 3'b011;
+		tb_d = 3'b100;
+		tb_d = 3'b101;
+		tb_d = 3'b110;
+		tb_d = 3'b111;
+	end
+endmodule

@@ -1,0 +1,30 @@
+|mx2
+y <= _nand2:nd22.y
+d0 => d0.IN1
+d1 => d1.IN1
+s => s.IN2
+
+
+|mx2|_inv:iv0
+y <= a.DB_MAX_OUTPUT_PORT_TYPE
+a => y.DATAIN
+
+
+|mx2|_nand2:nd20
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+a => y.IN0
+b => y.IN1
+
+
+|mx2|_nand2:nd21
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+a => y.IN0
+b => y.IN1
+
+
+|mx2|_nand2:nd22
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+a => y.IN0
+b => y.IN1
+
+

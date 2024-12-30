@@ -1,0 +1,14 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/gates.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/o_logic.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/ns_logic.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/_dff_r_async.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/tl_cntr_w_left_struct.v}
+vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/Assignment6.\ TrafficLightControl/tl_cntr_w_left_struct/Structural\ Implementation {C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/_register3_r.v}
+

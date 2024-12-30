@@ -1,0 +1,19 @@
+`timescale 1ns/100ps
+
+module tb_tl_cntr_w_left_struct;
+	reg
+	wire
+	
+		// Encoded states
+	parameter S0 = 2'b00; 
+	parameter S1 = 2'b01;
+	parameter S2 = 2'b10;
+	parameter S3 = 2'b11;
+	
+	// Encoded colors for outputs la and lb
+	parameter GREEN = 2'b00;
+	parameter YELLOW = 2'b01;
+	parameter RED = 2'b10;
+	parameter GREEN = 2'b11;
+	
+endmodule

@@ -1,0 +1,10 @@
+`timescale 1ns/100ps
+
+module tb_fifo_out;
+	reg
+	wire
+	
+	fifo_out(.state(tb_state), .data_count(tb_data_count), .full(tb_full), .empty(tb_empty),
+				.wr_ack(tb_wr_ack), .wr_err(tb_wr_err), .rd_ack(tb_rd_ack), .rd_err(tb_rd_err));
+	
+endmodule

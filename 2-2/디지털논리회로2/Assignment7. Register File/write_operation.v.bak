@@ -1,0 +1,9 @@
+module write_operation(Addr, we, to_reg);
+	input we;
+	input [2:0] Addr;
+	output [7:0] to_reg;
+	
+	wire [7:0] w_a;
+	
+	
+endmodule

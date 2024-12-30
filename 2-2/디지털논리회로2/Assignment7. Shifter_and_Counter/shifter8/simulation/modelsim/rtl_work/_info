@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/simulation/modelsim
+v_dff_r
+Z1 !s110 1698512474
+!i10b 1
+!s100 Z6>eY^l^@_^Lj3h6>BcD62
+Izzn`dUJ0;^;6mZCX;SnzJ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698510980
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_dff_r.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_dff_r.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698512474.000000
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_dff_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_dff_r.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8}
+Z7 tCvgOpt 0
+n@_dff_r
+v_register8_r
+R1
+!i10b 1
+!s100 WXjo0kzEF>AHfeYNDVRYN0
+IJ^_nSFJM34e?VhO7S4PLz0
+R2
+R0
+w1698511035
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_register8_r.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_register8_r.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_register8_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/_register8_r.v|
+!i113 1
+R5
+R6
+R7
+n@_register8_r
+vASR8
+R1
+!i10b 1
+!s100 1kj>LXi[>Sc_n<Qf6e<dH1
+Il0g81hnDijIL0ITJB[j>n3
+R2
+R0
+w1698132754
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/ASR8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/ASR8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/ASR8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/ASR8.v|
+!i113 1
+R5
+R6
+R7
+n@a@s@r8
+vcc_logic
+R1
+!i10b 1
+!s100 _nPJKT5[P:fUD7FHMd==b0
+I3bYG9c^XKP251EALV]GzI0
+R2
+R0
+w1698510994
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/cc_logic.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/cc_logic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/cc_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/cc_logic.v|
+!i113 1
+R5
+R6
+R7
+vLSL8
+R1
+!i10b 1
+!s100 zm^_J4fO9Fd:ebcE_<^zh0
+IPe<<So5Bk4;QmA9KGPYY12
+R2
+R0
+w1698132744
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSL8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSL8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSL8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSL8.v|
+!i113 1
+R5
+R6
+R7
+n@l@s@l8
+vLSR8
+R1
+!i10b 1
+!s100 D7VhJ3Z^J2Na_DBN[XWM41
+IW[F_g_QKHna^UR^LQ8CDM1
+R2
+R0
+w1698132751
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSR8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSR8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSR8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/LSR8.v|
+!i113 1
+R5
+R6
+R7
+n@l@s@r8
+vmx4
+R1
+!i10b 1
+!s100 HOVY7m9gBEFVmPfMhH9nM3
+Ik>kT363cadoR`Tc98bHSM2
+R2
+R0
+w1698130354
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/mx4.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/mx4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/mx4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/mx4.v|
+!i113 1
+R5
+R6
+R7
+vshifter8
+!s110 1698512473
+!i10b 1
+!s100 a[BOCaL>P:T7E19_XkfaM3
+IkG[M6`nkP[JzbQRU3o?192
+R2
+R0
+w1698509906
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/shifter8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/shifter8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1698512473.000000
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/shifter8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/shifter8.v|
+!i113 1
+R5
+R6
+R7
+vtb_shifter8
+R1
+!i10b 1
+!s100 0eS4?^YOhdHo<zzlhNh[>3
+Im[@`and5h4ReS>92fMNB90
+R2
+R0
+w1698510002
+8C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/tb_shifter8.v
+FC:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/tb_shifter8.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/tb_shifter8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8|C:/Users/kk200/verilog/Assignment7. Shifter_and_Counter/shifter8/tb_shifter8.v|
+!i113 1
+R5
+R6
+R7

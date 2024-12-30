@@ -1,0 +1,5 @@
+module ns_logic();
+	input
+	output
+	
+endmodule

@@ -1,0 +1,13 @@
+`timescale 1ns/100ps
+
+module tb_fifo_ns;
+	reg
+	wire
+	
+	fifo_ns U0(.wr_en(), .rd_en(), .state(), .data_count(), .next_state());
+	
+	initial begin
+		
+	end
+	
+endmodule

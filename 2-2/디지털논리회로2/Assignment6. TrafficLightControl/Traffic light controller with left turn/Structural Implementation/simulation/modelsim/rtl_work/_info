@@ -1,0 +1,537 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/simulation/modelsim
+v_and2
+Z1 !s110 1697852138
+!i10b 1
+!s100 B5U:W4;I]g?2537BCNz113
+IOSAaNf44NgaYoJOgHT>IL2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1696855402
+Z4 8C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/gates.v
+Z5 FC:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/gates.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1697852138.000000
+Z8 !s107 C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation|C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation}
+Z12 tCvgOpt 0
+n@_and2
+v_and2_32bits
+R1
+!i10b 1
+!s100 Qo^jjCM;9<^;dX8A9_8^`2
+IQIUnK92UPTN[Bo@HZc7]Q1
+R2
+R0
+R3
+R4
+R5
+L0 142
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_32bits
+v_and2_4bits
+R1
+!i10b 1
+!s100 UAJADQA8C63e:35Ph_jN^2
+IIf6<?n>HI?i=d9:NQ8M?S3
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and2_4bits
+v_and3
+R1
+!i10b 1
+!s100 dI>>C6U@E7GLARTbJzzcR0
+I?o?[ZFk<jhzD[iLGGOGEH2
+R2
+R0
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and3
+v_and4
+R1
+!i10b 1
+!s100 TYAi_NE9MIW4`N<[mJ=3L1
+I;LMRjMhiB_XJWai4L@W]n2
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and4
+v_and5
+R1
+!i10b 1
+!s100 g`m^kgO7nL:`cL@`:cQ<@0
+IkM<6WlRFQFBkC`Zmf1B<m3
+R2
+R0
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and5
+v_inv
+R1
+!i10b 1
+!s100 `>JJVH3ZdMMBcD5O?6WU52
+Ik]bzm60MiN7Y>c1M>@AmF0
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_inv_32bits
+R1
+!i10b 1
+!s100 _=0b5P_f=d^@6f5`[S;a]1
+I<KIklChOTBIVmH;jzU_Om1
+R2
+R0
+R3
+R4
+R5
+L0 134
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_32bits
+v_inv_4bits
+R1
+!i10b 1
+!s100 RV2IlFScc7[?8KG=1G>A31
+IYEfi:m[5Lm^P>[nPND8;62
+R2
+R0
+R3
+R4
+R5
+L0 88
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv_4bits
+v_nand2
+R1
+!i10b 1
+!s100 ==8<CD]Ra]n<_Ul^?QhA73
+I_iacOHJ[k0F;WXKi`1i]?0
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 Woccl5<29A9;_M90D@`cI3
+IKe>_5LO^DgEHVfPk^2Qn<1
+R2
+R0
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_or2_32bits
+R1
+!i10b 1
+!s100 EM6b8RGAI>FO08aOio=zV2
+INT9KM;zX?FV@[_jlSc7Ub0
+R2
+R0
+R3
+R4
+R5
+L0 150
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_32bits
+v_or2_4bits
+R1
+!i10b 1
+!s100 SOk`7W1eiil[:dk87a84h3
+I0`jeKcnY=RF0Vm4IBohKj1
+R2
+R0
+R3
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2_4bits
+v_or3
+R1
+!i10b 1
+!s100 HTI^]J]`knPh2B9;M^OmK0
+I1Q;>0K8?dPHJX2JSN3;Hj3
+R2
+R0
+R3
+R4
+R5
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or3
+v_or4
+R1
+!i10b 1
+!s100 GlDPO1z;M9]69IPa0KVI?1
+IHM]?AibeH9MMW8j09@P4?1
+R2
+R0
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or4
+v_or5
+R1
+!i10b 1
+!s100 [iO=e8?n2<ZcX>=oh46I02
+IQh2EoLDzzPoXHeCXn:Yic3
+R2
+R0
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or5
+v_xnor2_32bits
+R1
+!i10b 1
+!s100 dhFRL;iC86ZGW^X3d>]gH1
+Id>3X4<b2<5J3jCgm9bdz21
+R2
+R0
+R3
+R4
+R5
+L0 173
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_32bits
+v_xnor2_4bits
+R1
+!i10b 1
+!s100 A[eMNeX6iWP3PWzC@acRe0
+IPS2FmA;6Io?:i33Z9>=dE1
+R2
+R0
+R3
+R4
+R5
+L0 123
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xnor2_4bits
+v_xor2
+R1
+!i10b 1
+!s100 9>i^ezZae^>4E9JeAP47U2
+I_?S5Zmd4?T[HKo`1eXV3n2
+R2
+R0
+R3
+R4
+R5
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+v_xor2_32bits
+R1
+!i10b 1
+!s100 aJS=LQ:@02OhQ]>Ye:0N;2
+I6TA3XRnF=eRDR;CYA1=^j0
+R2
+R0
+R3
+R4
+R5
+L0 158
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_32bits
+v_xor2_4bits
+R1
+!i10b 1
+!s100 h0YaN_lU0hUY0IgVYY=UN0
+IigEIYk@f4eRAGMQc4BVVc2
+R2
+R0
+R3
+R4
+R5
+L0 112
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2_4bits
+vo_logic
+R1
+!i10b 1
+!s100 zS=H4]eVb3<Zj7]3[YO0]1
+Ic=^9EUKP]B?2Z[KiJCcm^3
+R2
+R0
+w1697793646
+8C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/o_logic.v
+FC:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/o_logic.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/o_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation|C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/o_logic.v|
+!i113 1
+R10
+R11
+R12
+vtb_o_logic
+R1
+!i10b 1
+!s100 ;>3IROTT4AR;BB>KAi^Gb0
+I]@HicQ0do=55C4G3Ihjz>1
+R2
+R0
+w1697852045
+8C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/tb_o_logic.v
+FC:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/tb_o_logic.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/tb_o_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation|C:/Users/kk200/verilog/Assignment6. TrafficLightControl/tl_cntr_w_left_struct/Structural Implementation/tb_o_logic.v|
+!i113 1
+R10
+R11
+R12

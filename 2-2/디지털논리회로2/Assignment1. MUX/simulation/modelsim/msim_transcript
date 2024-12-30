@@ -1,0 +1,66 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do 2-to-1-MUX_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/2-to-1-MUX {C:/Users/kk200/verilog/2-to-1-MUX/mx2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:39:02 on Sep 18,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/2-to-1-MUX" C:/Users/kk200/verilog/2-to-1-MUX/mx2.v 
+# -- Compiling module mx2
+# 
+# Top level modules:
+# 	mx2
+# End time: 14:39:02 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/2-to-1-MUX {C:/Users/kk200/verilog/2-to-1-MUX/gates.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:39:02 on Sep 18,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/2-to-1-MUX" C:/Users/kk200/verilog/2-to-1-MUX/gates.v 
+# -- Compiling module _nand2
+# -- Compiling module _inv
+# 
+# Top level modules:
+# 	_nand2
+# 	_inv
+# End time: 14:39:02 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/2-to-1-MUX {C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:39:02 on Sep 18,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/2-to-1-MUX" C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v 
+# -- Compiling module test_mx2
+# 
+# Top level modules:
+# 	test_mx2
+# End time: 14:39:02 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  test_mx2
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" test_mx2 
+# Start time: 14:39:03 on Sep 18,2023
+# Loading work.test_mx2
+# Loading work.mx2
+# Loading work._inv
+# Loading work._nand2
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v(20)
+#    Time: 80 ns  Iteration: 0  Instance: /test_mx2
+# 1
+# Break in Module test_mx2 at C:/Users/kk200/verilog/2-to-1-MUX/tb_mx2.v line 20
+# End time: 14:39:36 on Sep 18,2023, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 0

@@ -1,0 +1,123 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do cla_clk_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/rca32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/rca32.v 
+# -- Compiling module rca32
+# 
+# Top level modules:
+# 	rca32
+# End time: 17:17:25 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/rca4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/rca4.v 
+# -- Compiling module rca4
+# 
+# Top level modules:
+# 	rca4
+# End time: 17:17:25 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/rca_clk.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/rca_clk.v 
+# -- Compiling module rca_clk
+# 
+# Top level modules:
+# 	rca_clk
+# End time: 17:17:25 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/ha.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:17:25 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/fa.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:17:25 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/gates.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:25 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/gates.v 
+# -- Compiling module _inv
+# -- Compiling module _and2
+# -- Compiling module _and3
+# -- Compiling module _and4
+# -- Compiling module _and5
+# -- Compiling module _or2
+# -- Compiling module _or3
+# -- Compiling module _or4
+# -- Compiling module _or5
+# -- Compiling module _nand2
+# -- Compiling module _xor2
+# 
+# Top level modules:
+# 	_and3
+# 	_and4
+# 	_and5
+# 	_or3
+# 	_or4
+# 	_or5
+# 	_nand2
+# 	_xor2
+# End time: 17:17:26 on Oct 01,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kk200/verilog/CLA_CLK {C:/Users/kk200/verilog/CLA_CLK/tb_rca_clk.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:26 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kk200/verilog/CLA_CLK" C:/Users/kk200/verilog/CLA_CLK/tb_rca_clk.v 
+# -- Compiling module tb_rca_clk
+# 
+# Top level modules:
+# 	tb_rca_clk
+# End time: 17:17:26 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_rca_clk
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_rca_clk 
+# Start time: 17:17:26 on Oct 01,2023
+# Loading work.tb_rca_clk
+# Loading work.rca_clk
+# Loading work.rca32
+# Loading work.rca4
+# Loading work.fa
+# Loading work.ha
+# Loading work._or2
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Users/kk200/verilog/CLA_CLK/tb_rca_clk.v(22)
+#    Time: 48 ns  Iteration: 0  Instance: /tb_rca_clk
+# Break in Module tb_rca_clk at C:/Users/kk200/verilog/CLA_CLK/tb_rca_clk.v line 22
+# End time: 10:25:54 on Oct 02,2023, Elapsed time: 17:08:28
+# Errors: 0, Warnings: 0
